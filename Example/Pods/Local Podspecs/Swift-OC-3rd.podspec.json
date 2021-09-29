@@ -1,0 +1,22 @@
+{
+  "name": "Swift-OC-3rd",
+  "version": "0.1.0",
+  "summary": "A short description of Swift-OC-3rd.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangjinwei/Swift-OC-3rd",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangjinwei": "1598212126@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangjinwei/Swift-OC-3rd.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Swift-OC-3rd/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Swift_OC_3rd {
+  umbrella header "Swift-OC-3rd-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - Swift-OC-3rd (0.1.0)
+
+DEPENDENCIES:
+  - Swift-OC-3rd (from `../`)
+
+EXTERNAL SOURCES:
+  Swift-OC-3rd:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Swift-OC-3rd: 63a50c84d540389f53fcb34d04b7a6d07ee00935
+
+PODFILE CHECKSUM: c1ce9fe83bef42377fd721eef8cea9181d29be07
+
+COCOAPODS: 1.10.1
